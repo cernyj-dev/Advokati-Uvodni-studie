@@ -1,9 +1,37 @@
-# Informace o projektu #
-V rámci tohoto projektu jsme v předmětu BI-TIS (Tvorba informačních systémů) vytvořili Úvodní studii a prezentaci jakožto semestrální práci.
-Během cvičení se odehrávala cvičná jednání, kdy jsme jako tým měli jednání s cvičícím, který vystupoval jakožto zástupce firmy ADVOKÁT, s.r.o.
-Naší povinností bylo řádně se připravit na každé jednání a poté z něj vytvořit zápis. Bylo třeba získat požadavky na informační systém od našeho cvičícího, což nebylo vždy 
-jednoduché. Náš cvičící (Ing. Pavel Náplava, Ph.D.) nám chtěl předat své zkušenosti a opravdu nasimulovat, jak běžná jednání se zákazníkem probíhají. 
-Jednu dobu vystupoval jako majitel firmy -- tedy dokázal akorát říct ty nejobecnější a nejabstraktnější požadavky a popsat strukturu firmy. Poté vystupoval jako manažer týmů a více popsal technické požadavky na informační systém, ke kterému jsme pak vytvářeli úvodní studii. 
+# BI-TIS Semestral Project – Introductory Study for ADVOKÁT s.r.o.
 
-K dispozici jsme měli cvičný informační systém INS@ček, který měl už "vytvořené" moduly. Jako člen týmu jsem z požadavků zákazníka vybral předpřipravené moduly a doplnil ty, 
-které by bylo třeba upravit nebo přímo nově implementovat. Díky tomu se také dopočetly náklady. Vize, harmonogram, návratnost a další jsme pak zkompletovali v naší 34 stránkové úvodní studii.   
+> ⚠️ **Disclaimer:** This semestral work, including all documentation and diagrams, is written in **Czech**.
+
+---
+
+## Project Overview
+
+This repository contains the semestral work created for the course **BI-TIS (Information Systems Design)** at the Czech Technical University in Prague.
+
+As part of this project, our team developed an **Introductory Study** and a **Presentation** for a simulated client: the law firm **ADVOKÁT s.r.o.**. Throughout the semester, we participated in simulated negotiation sessions during lab exercises. Our instructor, **Ing. Pavel Náplava, Ph.D.**, took on the role of the client representative.
+
+Each meeting required proper preparation and follow-up documentation in the form of meeting minutes. Our objective was to elicit the client's requirements for a future information system — a task that was intentionally designed to mirror real-life challenges.
+
+During the simulation, the instructor alternated between roles:
+- As the **company owner**, he provided only high-level business goals and structural information.
+- Later, as the **team manager**, he described more concrete technical requirements, which formed the basis for our system analysis and proposal.
+
+---
+
+## Tools and Approach
+
+To support our work, we were provided access to a mock system named **INS@ček**, which included preconfigured software modules. Based on the client's requirements, I selected the most appropriate modules, proposed necessary adjustments, and identified features that would require custom development.
+
+These decisions directly influenced the **cost estimation**, which we included in the final study along with:
+- The project **vision**
+- A proposed **implementation timeline**
+- **Return on investment (ROI) analysis**
+- And other key deliverables
+
+---
+
+## Deliverables
+
+The final output includes:
+- A **34-page Introductory Study** in PDF format
+- A **Presentation** summarizing key points for stakeholder review
